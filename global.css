@@ -1,0 +1,17 @@
+#liszt {
+    float: right;
+    margin-right: 30%;
+    margin-top: 5%;
+    
+}
+.key-code {
+	color: #444;
+    background-color: #eaeaea;
+    font-size: 1.25em;
+    padding: 5px 10px;
+    border-radius: 4px;
+    border: 3px solid #aaa;
+}
+#liszt > li {
+    margin-bottom: 25px;
+}

@@ -1,0 +1,25 @@
+const model = {
+    liszt: [
+        {key: "E", sound: "crash"}, 
+        {key: "R", sound: "Ride"}, 
+        {key: "T", sound: "Low Tom"}, 
+        {key: "D", sound: "Mid Tom"},
+        {key: "F", sound: "High Tom"},
+        {key: "G", sound: "Kick"},
+        {key: "C", sound: "Snare"},
+        {key: "V", sound: "Hi-Hat Open"},
+        {key: "B", sound: "Hi-Hat Closed"},
+      ],
+    lyder: [
+        {name: "Crash", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/crash.wav"},
+        {name: "Ride", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/ride.wav"},
+        {name: "Low Tom", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/tom-low.wav"},
+        {name: "Mid Tom", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/tom-mid.wav"},
+        {name: "High Tom", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/tom-high.wav"},
+        {name: "Kick", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/kick.wav"},
+        {name: "Snare", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/snare.wav"},
+        {name: "Hi-Hat Open", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/hihat-open.wav"},
+        {name: "Hi-Hat Closed", link: "https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/hihat-close.wav"},
+],
+    trommer: [],
+}
